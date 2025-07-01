@@ -1,4 +1,4 @@
-# Projet 2 POEI groupe 4
+# Projet 2 POEI
 Ce répertoire contient le scripts d'automatisation de test en selenium dont le lien Jira est [ici](https://team-1612820401992.atlassian.net/jira/software/projects/POEI25P2G4/boards/280) et en particulier le tableau de bord [ici](https://team-1612820401992.atlassian.net/jira/dashboards/10541)
 ## Organisation du projet maven
 Le projet est un projetmaven organisé de la façon suivante:
